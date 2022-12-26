@@ -23,3 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 .yarn/*
+
+# Variables de entorno
+.env.production
