@@ -16,9 +16,14 @@ git clone https://github.com/racsorazaclasobol/calendario-backend.git
 
 2. Instala dependencias
 
-    - Ingresa en la raiz del front-end y ejecuta
+    - Ingresa en la raiz del Front-end y ejecuta
     ```bash
     yarn
+    ```
+
+    - Ingresa en la raiz del Back-end y ejecuta
+    ```bash
+    npm install
     ```
 
 3. Renombrar el archivo .env.template por .env.
